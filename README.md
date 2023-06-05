@@ -10,3 +10,5 @@ In this repository I illustrate the entire testing process of an e-commerce webs
 ## And here's the mind map (click for an up to date version):
 
 [![H4oi2II.jpg](https://iili.io/H4oi2II.jpg)](https://mm.tt/map/2783571868?t=USzijB3Igy)
+
+## It is pointless to write tons of User Stories for an existing project, but [HERE]() are a few to illustrate the concept.
