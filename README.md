@@ -17,3 +17,6 @@ In this repository I illustrate the entire testing process of an e-commerce webs
 
 ## [HERE](https://github.com/lech-dabrowski/Portfolio-Web-application/blob/main/03%20Test%20Cases.md) is a hub for all test cases grouped by category.
 
+## Finally all the bugs I've found are reported [HERE](https://github.com/lech-dabrowski/Portfolio-Web-application/blob/main/04%20Bug%20Reports)
+
+## Test Report will probably take form of a PDF document, so I'm leaving this line here as a placeholder for a download link.
