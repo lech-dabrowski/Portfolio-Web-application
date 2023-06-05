@@ -5,4 +5,4 @@ In this repository I illustrate the entire testing process of an e-commerce webs
 
 Here's the website:
 
-[<img src="https://github.com/lech-dabrowski/Portfolio-Web-application/assets/112244024/c79a8625-159c-43d6-a6df-371cda1e4c80">](https://www.walkerscelticjewelry.com/)
+[<img src="https://github.com/lech-dabrowski/Portfolio-Web-application/assets/112244024/c79a8625-159c-43d6-a6df-371cda1e4c80">](https://www.walkerscelticjewelry.com)
