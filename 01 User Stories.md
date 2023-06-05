@@ -5,7 +5,7 @@ freely browse store's products
 **IN ORDER TO:**
 find the right item
 
----
+--
 
 **AS:**
 unregistered User
