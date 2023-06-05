@@ -40,3 +40,12 @@ any type of User
 edit content of my basket
 **IN ORDER TO:**
 add or remove products
+
+--
+
+**AS:**
+malicious agent
+**I WANT TO:**
+leave unflattering review without purchasing the product
+**IN ORDER TO:**
+negatively impact store's sales
