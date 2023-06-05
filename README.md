@@ -13,4 +13,4 @@ In this repository I illustrate the entire testing process of an e-commerce webs
 
 ## It is pointless to write tons of User Stories for an existing project, but [HERE](https://github.com/lech-dabrowski/Portfolio-Web-application/blob/main/01%20User%20Stories.md) are a few to illustrate the concept.
 
-## [HERE](https://github.com/lech-dabrowski/Portfolio-Web-application/blob/main/01%20User%20Stories.md) are a few to illustrate the concept.
+## [HERE](https://github.com/lech-dabrowski/Portfolio-Web-application/blob/main/02%20Use%20Case%20Scenarios) are a few Use Case Scenarios that would normally be created during earlier stages of the Project
