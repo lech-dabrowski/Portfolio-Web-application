@@ -5,6 +5,4 @@ In this repository I illustrate the entire testing process of an e-commerce webs
 
 Here's the website:
 
-[<img src="https://github.com/lech-dabrowski/Portfolio-Web-application/assets/112244024/c79a8625-159c-43d6-a6df-371cda1e4c80">](https://walkerscelticjewelry.com/)
-
-[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
+[![H4oP7JR.png](https://iili.io/H4oP7JR.png)](https://www.walkerscelticjewelry.com/)
