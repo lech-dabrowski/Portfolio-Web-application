@@ -25,6 +25,7 @@ Upon clicking on said link user is taken to the 'Meet the staff' page. However e
 **Full description:**
 
 'About us' button on navigation bar is displayed in different line than other buttons. Issue is present on all tested browsers, all resolutions higher than 1280 x 720 and all levels of zoom.
+![obraz](https://github.com/lech-dabrowski/Portfolio-Web-application/assets/112244024/b1a6dace-2385-432d-a4e4-219bdeae353a)
 
 **Reproduction steps:**
 
@@ -41,6 +42,7 @@ Navigation bar is always visible. Simply navigate to the top of the page.
 **Full description:**
 
 At the bottom of the page there's a widget displaying number of 'Certified reviews'. It consists of .png background and some formatted text. On Firefox browser it does not display properly. Please refer to screenshots below:
+
 Chrome:
 ![1](https://github.com/lech-dabrowski/Portfolio-Web-application/assets/112244024/3be24b4d-c13e-4fc3-9d05-5ecd89bafc61)
 Firefox:
