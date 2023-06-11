@@ -11,6 +11,13 @@ In this repository I illustrate the entire testing process of an e-commerce webs
 
 [![H4oi2II.jpg](https://iili.io/H4oi2II.jpg)](https://mm.tt/map/2783571868?t=USzijB3Igy)
 
+## Testing metodology
+All tests are performed on following browsers: Mozilla Firefox, Google Chrome, Microsoft Edge, Brave.
+
+All browsers are up-to-date and have no extra plugins installed.
+
+Mobile version of website is tested on one available physical device (ASUS ZenFone Max Pro M2) and on popular devices simulated by browser's developer tools.
+
 ## [HERE](https://github.com/lech-dabrowski/Portfolio-Web-application/blob/main/Test%20Cases.md) is a hub for all test cases grouped by category.
 
 ## Finally all the bugs I've found are reported [HERE](https://github.com/lech-dabrowski/Portfolio-Web-application/blob/main/Bug%20Reports.md)
