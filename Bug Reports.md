@@ -1,4 +1,4 @@
-### Issue 1: Improper behaviour of 'Handmade in the USA' hyperlink on the top bar.
+## Issue 1: Improper behaviour of 'Handmade in the USA' hyperlink on the top bar.
 
 **Category:** Navigation
 
@@ -18,7 +18,7 @@ Upon clicking on said link user is taken to the 'Meet the staff' page. However e
 
 ---
 
-### Issue 2: Broken hyperlink on 'Ring sizing chart' page
+## Issue 2: Broken hyperlink on 'Ring sizing chart' page
 
 **Category:** Navigation
 
@@ -36,7 +36,7 @@ Upon clicking on said link user is taken to the 'Meet the staff' page. However e
 
 ---
 
-### Issue 3: Product pages having Google+ links
+## Issue 3: Product pages having Google+ links
 
 **Category:** Navigation
 
@@ -54,7 +54,7 @@ Product pages contain links to various social media platforms among them is now 
 
 ---
 
-### Issue 0: 'About us' button on navigation bar is displayed in different line than other buttons.
+## Issue 0: 'About us' button on navigation bar is displayed in different line than other buttons.
 
 **Category:** Visual
 
@@ -71,7 +71,7 @@ Navigation bar is always visible. Simply navigate to the top of the page.
 
 ---
 
-### Issue 0: 'Certified Reviews' icon not appearing in Firefox
+## Issue 0: 'Certified Reviews' icon not appearing in Firefox
 
 **Category:** Visual
 
@@ -93,7 +93,7 @@ Navigate to the bottom of the page.
 
 ---
 
-### Issue 0: No information about Cookie Policy anywhere on a website
+## Issue 0: No information about Cookie Policy anywhere on a website
 
 **Category:** Compliance
 
