@@ -42,11 +42,15 @@ Navigation bar is always visible. Simply navigate to the top of the page.
 
 Website stores user activity such as search history and contents of shopping cart in a cookie file. To check it open browser DevTools (F12 on Google Chrome) and navigate to 'Application' -> 'Storage' -> 'Cookies' to see if any files are stored. While not a legal advice, it is strongly suggested to add an Accept Cookie Policy section, as failure to do so may result in fines in many territories.
 
-**Reproduction steps:**
+**Reproduction steps**
 
-1. Navigate to the main page by either typing https://www.walkerscelticjewelry.com/ or clicking on a logo
-2. Click on 'Handmade in the USA' hyperlink and observe proper behaviour.
-3. Click for a second time to get corrupted address and 404 error.
+1. Open Google Chrome (exact steps may vary for different browsers) 
+2. Click on three dots in the top right corner of the browser window and choose 'Settings'
+3. Navigate to 'Privacy and Security' and choose 'Clear Browsing Data'
+4. Make sure that 'Cookies and other site data' is checked and click on 'Clear Data'
+5. Restart browser
+6. Navigate to https://www.walkerscelticjewelry.com/
+7. Observe whether Cookie Policy information appears
 
 
 ---
