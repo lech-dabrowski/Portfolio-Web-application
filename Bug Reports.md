@@ -1,12 +1,14 @@
 ### Issue 1: Improper behaviour of 'Handmade in the USA' hyperlink on the top bar.
 
-**Category:** Function
+**Category:** Navigation
 
 **Severity:** Medium
 
 **Full description:**
 
 Upon clicking on said link user is taken to the 'Meet the staff' page. However each consecutive click adds '/pages/' to the address resulting in 404 error.
+![obraz](https://github.com/lech-dabrowski/Portfolio-Web-application/assets/112244024/f8bcb297-e3f6-4335-8bd9-a39901dc9277)
+
 
 **Reproduction steps:**
 
@@ -16,21 +18,39 @@ Upon clicking on said link user is taken to the 'Meet the staff' page. However e
 
 ---
 
-### Issue 1: Improper behaviour of 'Handmade in the USA' hyperlink on the top bar.
+### Issue 2: Broken hyperlink on 'Ring sizing chart' page
 
-**Category:** Function
+**Category:** Navigation
 
-**Severity:** Medium
+**Severity:** Minor
 
 **Full description:**
 
-Upon clicking on said link user is taken to the 'Meet the staff' page. However each consecutive click adds '/pages/' to the address resulting in 404 error.
+'Ring sizing chart' page contains a hyperlink to an article 'Getting Her Ring Size Without Ruining the Surprise'. While the article exists and can be searched for, the link itself is broken and leads nowhere.
 
 **Reproduction steps:**
 
-1. Navigate to the main page by either typing https://www.walkerscelticjewelry.com/ or clicking on a logo
-2. Click on 'Handmade in the USA' hyperlink and observe proper behaviour.
-3. Click for a second time to get corrupted address and 404 error.
+1. From the main page, using Navigation Bar go to rings -> ring sizing chart
+2. In the body of an article find a phrase 'Getting Her Ring Size Without Ruining the Surprise' which looks like a clickable hyperlink and click on it
+3. Observe an error 404 message.
+
+---
+
+### Issue 3: Product pages having Google+ links
+
+**Category:** Navigation
+
+**Severity:** Minor
+
+**Full description:**
+
+Product pages contain links to various social media platforms among them is now defunct Google+. While not a serious issue, it is suggested to remove those links to avoid confusion.
+
+**Reproduction steps:**
+
+1. Open any product page by either navigating to it or choosing from the list of 'Featured products' on the the main page
+2. On the right side, just under the product description, there is a collection of social media links
+3. Click on 'Add to Google+' link, a page should appear explaining termination of Google+ service.
 
 ---
 
