@@ -1,4 +1,13 @@
-### Issue 1: 'About us' button on navigation bar is displayed in different line than other buttons.
+### Issue: Improper behaviour of 'Handmade in the USA' hyperlink on the top bar.
+|||
+| --- | --- |
+| Category: | Function |
+| Severity: | Medium |
+| Full description: | Upon clicking on said link user is taken to the 'Meet the staff' page. However each consecutive click adds '/pages/' to the address resulting in 404 error.  |
+| Reproduction steps: | Navigation bar is always visible. Simply navigate to the top of the page. |
+|||
+
+### Issue: 'About us' button on navigation bar is displayed in different line than other buttons.
 |||
 | --- | --- |
 | Category: | Visual |
