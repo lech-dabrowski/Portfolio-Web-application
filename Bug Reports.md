@@ -32,6 +32,27 @@ Navigation bar is always visible. Simply navigate to the top of the page.
 
 ---
 
+### Issue 3: 'Certified Reviews' icon not appearing in Firefox
+
+**Category:** Visual
+
+**Severity:** Minor
+
+**Full description:**
+
+At the bottom of the page there's a widget displaying number of 'Certified reviews'. It consists of .png background and some formatted text. On Firefox browser it does not display properly. Please refer to screenshots below:
+Chrome:
+![1](https://github.com/lech-dabrowski/Portfolio-Web-application/assets/112244024/3be24b4d-c13e-4fc3-9d05-5ecd89bafc61)
+Firefox:
+![2](https://github.com/lech-dabrowski/Portfolio-Web-application/assets/112244024/979f285f-cf63-4599-b0ec-564bfa404745)
+
+
+**Reproduction steps:**
+
+Navigate to the bottom of the page.
+
+---
+
 ### Issue 3: No information about Cookie Policy anywhere on a website
 
 **Category:** Compliance
